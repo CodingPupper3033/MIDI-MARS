@@ -9,7 +9,7 @@ To accomplish this the program:
 
 ## Examples:
 Playing Owl City - Fireflies:
-![Fireflies](./Example%20Videos/Fireflies.mp4)
+![Fireflies](./Example%20Videos/fireflies.mp4)
 
 Playing Rick Astley - Never Gonna Give You Up
 ![Never Gonna Give You Up](./Example%20Videos/Never%20Gonna%20Give%20You%20Up.mp4)
