@@ -1,7 +1,9 @@
 .data
 buffer:			.space 4
 max_ms_before_delay:	.word 2
-fileName:		.asciiz "J:\\Programming\\Assembly\\MIPS\\MIDI Player\\fireflies.mid"
+#fileName:		.asciiz "/media/codin/Cinematic/Programming/Assembly/MIPS/MIDI Player/09 The Geeks Will Inherit The Earth.mid"
+fileName:		.asciiz "/media/codin/Cinematic/Programming/Assembly/MIPS/MIDI Player/fireflies.mid"
+#fileName:		.asciiz "J:\\Programming\\Assembly\\MIPS\\MIDI Player\\fireflies.mid"
 #fileName:		.asciiz "J:\\Programming\\Assembly\\MIPS\\MIDI Player\\Never Gonna Give You Up.mid"
 unableToOpenFile:	.asciiz "Aborting - Unable to open the file"
 malformedFile:		.asciiz "Aborting - Malformed File"
